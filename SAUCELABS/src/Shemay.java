@@ -5,7 +5,7 @@ public class Shemay {
 		// TODO Auto-generated method stub
 
 		
-		System.out.println("MAyasya");
+		System.out.println("MAysasya");
 	}
 
 }
