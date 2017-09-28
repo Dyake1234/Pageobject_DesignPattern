@@ -7,7 +7,7 @@ public class Earth {
 		System.out.println("storm earth and fire");
 		System.out.println("storm earth and fire");
 		// TODO Auto-generated methSod stub
-		System.out.println("haah");
+		System.out.println("haaha");
 
 	}
 
