@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [COOLKID]">
+  <test name="firefox(failed)">
+    <parameter name="remotebrowser" value="firefox"/>
+    <classes>
+      <class name="inventorymanagement.DefineUnitofMeasureforQuantity">
+        <methods>
+          <include name="Initialize"/>
+          <include name="Login"/>
+          <include name="ValidateInitial"/>
+          <include name="ValidateDefineUnitofMeasureforQuantity"/>
+          <include name="tearDown"/>
+          <include name="deleteCookies"/>
+        </methods>
+      </class> <!-- inventorymanagement.DefineUnitofMeasureforQuantity -->
+    </classes>
+  </test> <!-- firefox(failed) -->
+</suite> <!-- Failed suite [COOLKID] -->

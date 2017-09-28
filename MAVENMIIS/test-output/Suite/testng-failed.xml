@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test1(failed)">
+    <classes>
+      <class name="inventorymanagement.DefineUnitofMeasureforQuantity">
+        <methods>
+          <include name="Login"/>
+          <include name="Quit"/>
+          <include name="ValidateInitial"/>
+          <include name="Initialize"/>
+        </methods>
+      </class> <!-- inventorymanagement.DefineUnitofMeasureforQuantity -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Suite] -->

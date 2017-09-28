@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="69609" started-at="2017-09-28T10:09:09Z" finished-at="2017-09-28T10:10:19Z">
+    <groups>
+      <group name="InventoryManagement">
+        <method signature="AddProduct.AddingProduct()[pri:0, instance:com.automation.inventorymanagement.AddProduct@4470f8a6]" name="AddingProduct" class="com.automation.inventorymanagement.AddProduct"/>
+      </group> <!-- InventoryManagement -->
+    </groups>
+    <test name="Default test" duration-ms="69609" started-at="2017-09-28T10:09:09Z" finished-at="2017-09-28T10:10:19Z">
+      <class name="com.automation.inventorymanagement.AddProduct">
+        <test-method status="PASS" signature="Initialize()[pri:0, instance:com.automation.inventorymanagement.AddProduct@4470f8a6]" name="Initialize" is-config="true" duration-ms="3953" started-at="2017-09-28T18:09:09Z" finished-at="2017-09-28T18:09:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialize -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.automation.inventorymanagement.AddProduct@4470f8a6]" name="Login" is-config="true" duration-ms="43241" started-at="2017-09-28T18:09:13Z" finished-at="2017-09-28T18:09:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="AddingProduct()[pri:0, instance:com.automation.inventorymanagement.AddProduct@4470f8a6]" name="AddingProduct" duration-ms="21399" started-at="2017-09-28T18:09:57Z" finished-at="2017-09-28T18:10:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddingProduct -->
+        <test-method status="PASS" signature="deletecookies()[pri:0, instance:com.automation.inventorymanagement.AddProduct@4470f8a6]" name="deletecookies" is-config="true" duration-ms="42" started-at="2017-09-28T18:10:18Z" finished-at="2017-09-28T18:10:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletecookies -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automation.inventorymanagement.AddProduct@4470f8a6]" name="tearDown" is-config="true" duration-ms="912" started-at="2017-09-28T18:10:18Z" finished-at="2017-09-28T18:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automation.inventorymanagement.AddProduct -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
